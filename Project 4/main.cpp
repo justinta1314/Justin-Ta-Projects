@@ -1,3 +1,15 @@
+/*
+Goal of the Project:
+Using what I implemented for Project 2, create a ticket reservation system for a movie theater.
+There will be 3 auditoriums. There will also be a user database where each user has a login. 
+Each customer can purchase tickets which will be saved as one of their orders.
+Customers can update these orders; by adding tickets, removing tickets one by one, or cancelling the order.
+The customer can also cancel the order by removing each ticket separately.
+At the end of the program, print out a summary of all of the auditoriums and the money that was made.
+The user database will be stored in an unordered_map or a hash table.
+The auditoriums are implemented as linked lists which was my implementation.
+*/
+
 #include <iostream>
 #include <cctype>
 #include <string>

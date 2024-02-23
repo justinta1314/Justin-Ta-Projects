@@ -1,5 +1,7 @@
 /*
 Goal of Project: 
+Read in the files that contain the current status for each customer.
+At the end of the program, write each customer to the file that corresponds to their status.
 To create a customer reward program with three tiers; regular, gold, and platinum.
 If customers spend enough money, they can be promoted to a higher tier.
 Gold customers get a discount that increases as they spend more money.

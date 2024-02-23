@@ -1,3 +1,9 @@
+/*
+Goal of Project: Using my implementation of a linked list to create 
+                 a ticket reservation system for a movie theater
+*/
+
+
 #include <iostream>
 #include <cctype>
 #include <string>

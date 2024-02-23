@@ -1,3 +1,13 @@
+/*
+Goal of the Project:
+Create a templated binary search tree and use that template for a movie kiosk reservation system.
+At the start of the program, read in the inventory file and the transactions file.
+Store the movies in the binary search tree.
+If all copies of a movie get removed, remove it from the binary search tree.
+If copies of a movie are added but the movie is not in the binary search tree, insert it into the tree.
+All traversals of the binary search tree are done recursively.
+*/
+
 #include <iostream>
 #include <fstream>
 #include <sstream>

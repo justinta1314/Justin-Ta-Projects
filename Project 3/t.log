@@ -1,6 +1,0 @@
-rent "Passengers"
-add "Passengers",2
-return "Doctor Strange"
-return "Passengers"
-remove "Captain America: Civil War",2
-rent "Grown Ups 2"

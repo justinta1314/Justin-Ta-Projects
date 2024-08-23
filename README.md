@@ -1,3 +1,3 @@
-# UTD-Fall-2023-Projects
+# UTD School Projects
 By Justin Ta  
-Projects that I completed during the Fall 2023 semester for my CS 2337 (Computer Science 2) class at the University of Texas at Dallas.
+Projects that I have completed during my time at UTD. All projects include test case scores.

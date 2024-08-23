@@ -7,6 +7,7 @@ To create a customer reward program with three tiers; regular, gold, and platinu
 If customers spend enough money, they can be promoted to a higher tier.
 Gold customers get a discount that increases as they spend more money.
 Platinum customers can earn bonus bucks for every 5 dollars that they spend.
+Test cases: 67/70
 */
 
 #include <iostream>

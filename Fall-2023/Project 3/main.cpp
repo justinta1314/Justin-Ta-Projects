@@ -6,6 +6,7 @@ Store the movies in the binary search tree.
 If all copies of a movie get removed, remove it from the binary search tree.
 If copies of a movie are added but the movie is not in the binary search tree, insert it into the tree.
 All traversals of the binary search tree are done recursively.
+Test cases: 60/60
 */
 
 #include <iostream>

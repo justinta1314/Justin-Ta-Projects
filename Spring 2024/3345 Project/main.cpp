@@ -1,3 +1,10 @@
+/*
+This program will take in a flight log, a list of flights that should have paths found for. The program will then output the paths into the output file.
+This program creates an adjacency list since the flights can be visualized as a graph, undirected for this project since flights can be bidirectional.
+The program utilizes a modified depth-first search in order to find all paths from the source city to the destination city.
+The program sorts the top 3 paths based on either time or cost. The sorting criteria is given in the flight request file.
+Test cases: 60/60
+*/
 #include <iostream>
 #include <fstream>
 #include <string>

@@ -8,6 +8,8 @@ The customer can also cancel the order by removing each ticket separately.
 At the end of the program, print out a summary of all of the auditoriums and the money that was made.
 The user database will be stored in an unordered_map or a hash table.
 The auditoriums are implemented as linked lists which was my implementation.
+Test cases: 70/70
+Points were taken off for "bad coding practice" because I had coded everything into the main method. I have learned that it is better to keep the main function minimal and to create functions as needed.
 */
 
 #include <iostream>

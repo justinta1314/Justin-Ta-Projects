@@ -1,6 +1,7 @@
 /*
 Goal of Project: Using my implementation of a linked list to create 
                  a ticket reservation system for a movie theater
+Test cases: 70/70
 */
 
 

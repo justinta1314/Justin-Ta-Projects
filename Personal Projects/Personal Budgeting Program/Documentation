@@ -1,1 +1,5 @@
-
+Written By: Justin Ta
+Date Started: 9/3/24
+Date Finished: TBA
+Description: 
+This project is a personal budgeting tool that I am creating for myself and maybe for others in the future. The program will allow users to create a log-in and keep track of their spending. The program will also allow users to keep track of different forms of income and show the users a summary of their monthly/annual income. The program will let users keep track of how much they spend and categorize their expenses. Users will be able to modify their expenses and will be able to see a breakdown of expenses by categories. Users will also be able to set savings goals and they can track their progress towards these savings goals. The program will provide a summary report that will show total spending, savings, income, and remaining balance. The program will be able to save the user's data so that the data is maintained for the next time the user wants to use the program. As of now, the program will just be a basic command line program, with hopes of upgrading the program with a GUI so that the program is more interactable for the users. The program will also have security measures like encrypting passwords, so the user's data is harder to be accessed.

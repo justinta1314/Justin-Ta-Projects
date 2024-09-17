@@ -1,1 +1,7 @@
-
+Start Date: 9/2/24
+SAGE Developer
+Responsibilities: Develop a web scraper to collect all courses for each major to add to the degree plan for the SAGE AI bot to utilize.
+What is SAGE: SAGE, or Student Advising Guidance Engine, is an AI chatbot that was created to assist students who could not find answers from the advisors on campus.
+SAGE aims to assist students when advisors are taking too long to respond and they need answers urgently. SAGE allows students to ask questions and receive answers after seconds.
+SAGE also assists students with picking which classes to register for when the registration period opens up. This is done by looking at courses that the student
+has already taken and using the degree plans that have been issued by the University. SAGE will then produce a schedule of courses that shows the next courses students should take.
